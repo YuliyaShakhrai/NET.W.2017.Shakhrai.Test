@@ -1,0 +1,17 @@
+C:\Users\MIB\Desktop\20.11.2017\Task1.Solution.Tests\obj\Debug\Task1.Tests.csprojResolveAssemblyReference.cache
+C:\Users\MIB\Desktop\20.11.2017\Task1.Solution.Tests\obj\Debug\Task1.Tests.csproj.CoreCompileInputs.cache
+C:\Users\MIB\Desktop\23.11.2017\Task1.Solution.Tests\bin\Debug\Task1.Solution.Tests.dll
+C:\Users\MIB\Desktop\23.11.2017\Task1.Solution.Tests\bin\Debug\Task1.Solution.Tests.pdb
+C:\Users\MIB\Desktop\23.11.2017\Task1.Solution.Tests\bin\Debug\Castle.Core.dll
+C:\Users\MIB\Desktop\23.11.2017\Task1.Solution.Tests\bin\Debug\Moq.dll
+C:\Users\MIB\Desktop\23.11.2017\Task1.Solution.Tests\bin\Debug\nunit.framework.dll
+C:\Users\MIB\Desktop\23.11.2017\Task1.Solution.Tests\bin\Debug\Task1.Solution.dll
+C:\Users\MIB\Desktop\23.11.2017\Task1.Solution.Tests\bin\Debug\Task1.Solution.pdb
+C:\Users\MIB\Desktop\23.11.2017\Task1.Solution.Tests\bin\Debug\Castle.Core.xml
+C:\Users\MIB\Desktop\23.11.2017\Task1.Solution.Tests\bin\Debug\Moq.pdb
+C:\Users\MIB\Desktop\23.11.2017\Task1.Solution.Tests\bin\Debug\Moq.xml
+C:\Users\MIB\Desktop\23.11.2017\Task1.Solution.Tests\bin\Debug\nunit.framework.xml
+C:\Users\MIB\Desktop\23.11.2017\Task1.Solution.Tests\obj\Debug\Task1.Tests.csprojResolveAssemblyReference.cache
+C:\Users\MIB\Desktop\23.11.2017\Task1.Solution.Tests\obj\Debug\Task1.Tests.csproj.CoreCompileInputs.cache
+C:\Users\MIB\Desktop\23.11.2017\Task1.Solution.Tests\obj\Debug\Task1.Solution.Tests.dll
+C:\Users\MIB\Desktop\23.11.2017\Task1.Solution.Tests\obj\Debug\Task1.Solution.Tests.pdb

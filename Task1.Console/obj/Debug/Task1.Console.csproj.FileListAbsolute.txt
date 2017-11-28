@@ -1,0 +1,9 @@
+E:\EPAM\Final Test\NET.W.2017.Shakhrai.Test\Task1.Console\bin\Debug\Task1.Console.exe.config
+E:\EPAM\Final Test\NET.W.2017.Shakhrai.Test\Task1.Console\bin\Debug\Task1.Console.exe
+E:\EPAM\Final Test\NET.W.2017.Shakhrai.Test\Task1.Console\bin\Debug\Task1.Console.pdb
+E:\EPAM\Final Test\NET.W.2017.Shakhrai.Test\Task1.Console\bin\Debug\Task1.dll
+E:\EPAM\Final Test\NET.W.2017.Shakhrai.Test\Task1.Console\bin\Debug\Task1.pdb
+E:\EPAM\Final Test\NET.W.2017.Shakhrai.Test\Task1.Console\obj\Debug\Task1.Console.csprojResolveAssemblyReference.cache
+E:\EPAM\Final Test\NET.W.2017.Shakhrai.Test\Task1.Console\obj\Debug\Task1.Console.csproj.CoreCompileInputs.cache
+E:\EPAM\Final Test\NET.W.2017.Shakhrai.Test\Task1.Console\obj\Debug\Task1.Console.exe
+E:\EPAM\Final Test\NET.W.2017.Shakhrai.Test\Task1.Console\obj\Debug\Task1.Console.pdb
