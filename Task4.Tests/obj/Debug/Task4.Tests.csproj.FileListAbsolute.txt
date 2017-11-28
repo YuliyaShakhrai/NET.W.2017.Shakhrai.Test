@@ -35,3 +35,5 @@ E:\EPAM\Final Test\NET.W.2017.Shakhrai.Test\Task4.Tests\bin\Debug\Mono.Cecil.dll
 E:\EPAM\Final Test\NET.W.2017.Shakhrai.Test\Task4.Tests\bin\Debug\Mono.Cecil.Pdb.dll
 E:\EPAM\Final Test\NET.W.2017.Shakhrai.Test\Task4.Tests\bin\Debug\Mono.Cecil.Mdb.dll
 E:\EPAM\Final Test\NET.W.2017.Shakhrai.Test\Task4.Tests\bin\Debug\Mono.Cecil.Rocks.dll
+E:\EPAM\Final Test\NET.W.2017.Shakhrai.Test\Task4.Tests\bin\Debug\Task4.Solution.dll
+E:\EPAM\Final Test\NET.W.2017.Shakhrai.Test\Task4.Tests\bin\Debug\Task4.Solution.pdb
