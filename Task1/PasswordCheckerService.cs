@@ -5,46 +5,35 @@ namespace Task1
 {
     public class PasswordCheckerService
     {
-        private IRepository _repository;
-        private IPasswordVerifier _verifier;
+        private SqlRepository repository = new SqlRepository();
 
-        public PasswordCheckerService(IRepository repository, IPasswordVerifier verifier)
+        public Tuple<bool, string> VerifyPassword(string password)
         {
-            this.Repository = repository;
-            this.PasswordVerifier = verifier;
-        }
+            if (password == null)
+                throw new ArgumentException($"{password} is null arg");
 
-        public IRepository Repository {
-            get
-            {
-                return _repository;
-            }
-            set
-            {
-                _repository = value;
-            }
-        }
+            if (password == string.Empty)
+                return Tuple.Create(false, $"{password} is empty ");
 
-        public IPasswordVerifier PasswordVerifier
-        {
-            get
-            {
-                return _verifier;
-            }
-            set
-            {
-                _verifier = value;
-            }
-        }
+            // check if length more than 7 chars 
+            if (password.Length <= 7)
+                return Tuple.Create(false, $"{password} length too short");
 
-        public Tuple<bool, string> CheckPassword(string password)
-        {
-            var result = PasswordVerifier.VerifyPassword(password);
-            if (result.Item1 == true)
-            {
-                Repository.Create(password);
-            }
-            return result;
+            // check if length more than 10 chars for admins
+            if (password.Length >= 15)
+                return Tuple.Create(false, $"{password} length too long");
+
+            // check if password conatins at least one alphabetical character 
+            if (!password.Any(char.IsLetter))
+                return Tuple.Create(false, $"{password} hasn't alphanumerical chars");
+
+            // check if password conatins at least one digit character 
+            if (!password.Any(char.IsNumber))
+                return Tuple.Create(false, $"{password} hasn't digits");
+
+            repository.Create(password);
+
+            return Tuple.Create(true, "Password is Ok. User was created");
         }
     }
 }

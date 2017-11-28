@@ -8,24 +8,29 @@ using System.Threading.Tasks;
 namespace Task1.Console
 {
     using System;
+    using Task1.Solution;
+
     public class Program
     {
         static void Main(string[] args)
         {
             var repository = new SqlRepository();
-            var verifier = new PasswordVerifier();
-            var service = new PasswordCheckerService(repository, verifier);
+            var service = new PasswordCheckerService(repository);
+            var verifier = 
+                new PasswordVerifierBuilder().WithNoEmpty().WithMinLength(5).WithMaxLength(12).WithOneDigit().WithOneLetter().Build();
 
             var pass1 = "1234567";
-            var pass2 = "abcdefg";
-            var pass3 = "sdadkjwld8732309!";
-            var pass4 = "1111111aaa";
+            var pass2 = "123456734234344";
+            var pass3 = "abcdefg";
+            var pass4 = "sdadkjwld8732309!";
+            var pass5 = "1111111aaa";
+            var pass6 = "";
 
-            string[] passwords = { pass1, pass2, pass3, pass4 };
+            string[] passwords = { pass1, pass2, pass3, pass4, pass5, pass6 };
 
             foreach (var pass in passwords)
             {
-                Console.WriteLine("{0} {1} {2}", pass, service.CheckPassword(pass).Item1, service.CheckPassword(pass).Item2);
+                Console.WriteLine(service.CheckPassword(pass, verifier).errorMessage);
             }
 
             Console.ReadLine();

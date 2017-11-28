@@ -8,9 +8,10 @@
     <OutputType>Exe</OutputType>
     <RootNamespace>Task1.Console</RootNamespace>
     <AssemblyName>Task1.Console</AssemblyName>
-    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.7</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <TargetFrameworkProfile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>
@@ -49,9 +50,9 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Task1\Task1.csproj">
-      <Project>{bdb58e71-caea-48a4-aebf-23e4d925d60a}</Project>
-      <Name>Task1</Name>
+    <ProjectReference Include="..\Task1.Solution\Task1.Solution.csproj">
+      <Project>{f761c34a-ba2a-45c1-9094-8f4a470ee4b2}</Project>
+      <Name>Task1.Solution</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

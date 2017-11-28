@@ -10,3 +10,15 @@ C:\Users\MIB\Desktop\23.11.2017\Task1.Solution\obj\Debug\Task1.Solution.csprojRe
 C:\Users\MIB\Desktop\23.11.2017\Task1.Solution\obj\Debug\Task1.Solution.csproj.CoreCompileInputs.cache
 C:\Users\MIB\Desktop\23.11.2017\Task1.Solution\obj\Debug\Task1.Solution.dll
 C:\Users\MIB\Desktop\23.11.2017\Task1.Solution\obj\Debug\Task1.Solution.pdb
+E:\EPAM\Final Test\NET.W.2017.Shakhrai.Test\Task1.Solution\bin\Debug\Task1.Solution.dll
+E:\EPAM\Final Test\NET.W.2017.Shakhrai.Test\Task1.Solution\bin\Debug\Task1.Solution.pdb
+E:\EPAM\Final Test\NET.W.2017.Shakhrai.Test\Task1.Solution\obj\Debug\Task1.Solution.csprojResolveAssemblyReference.cache
+E:\EPAM\Final Test\NET.W.2017.Shakhrai.Test\Task1.Solution\obj\Debug\Task1.Solution.csproj.CoreCompileInputs.cache
+E:\EPAM\Final Test\NET.W.2017.Shakhrai.Test\Task1.Solution\obj\Debug\Task1.Solution.dll
+E:\EPAM\Final Test\NET.W.2017.Shakhrai.Test\Task1.Solution\obj\Debug\Task1.Solution.pdb
+D:\Projects\EPAM\Final Test\NET.W.2017.Shakhrai.Test\Task1.Solution\obj\Debug\Task1.Solution.csprojResolveAssemblyReference.cache
+D:\Projects\EPAM\Final Test\NET.W.2017.Shakhrai.Test\Task1.Solution\obj\Debug\Task1.Solution.csproj.CoreCompileInputs.cache
+D:\Projects\EPAM\Final Test\NET.W.2017.Shakhrai.Test\Task1.Solution\obj\Debug\Task1.Solution.dll
+D:\Projects\EPAM\Final Test\NET.W.2017.Shakhrai.Test\Task1.Solution\obj\Debug\Task1.Solution.pdb
+D:\Projects\EPAM\Final Test\NET.W.2017.Shakhrai.Test\Task1.Solution\bin\Debug\Task1.Solution.dll
+D:\Projects\EPAM\Final Test\NET.W.2017.Shakhrai.Test\Task1.Solution\bin\Debug\Task1.Solution.pdb
