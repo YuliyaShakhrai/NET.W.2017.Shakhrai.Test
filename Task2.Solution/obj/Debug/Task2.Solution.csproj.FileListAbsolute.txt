@@ -1,0 +1,18 @@
+C:\Users\MIB\Desktop\20.11.2017\Task2.Solution\bin\Debug\Task2.Solution.dll
+C:\Users\MIB\Desktop\20.11.2017\Task2.Solution\bin\Debug\Task2.Solution.pdb
+C:\Users\MIB\Desktop\20.11.2017\Task2.Solution\obj\Debug\Task2.Solution.csprojResolveAssemblyReference.cache
+C:\Users\MIB\Desktop\20.11.2017\Task2.Solution\obj\Debug\Task2.Solution.csproj.CoreCompileInputs.cache
+C:\Users\MIB\Desktop\20.11.2017\Task2.Solution\obj\Debug\Task2.Solution.dll
+C:\Users\MIB\Desktop\20.11.2017\Task2.Solution\obj\Debug\Task2.Solution.pdb
+C:\Users\MIB\Desktop\23.11.2017\Task2.Solution\bin\Debug\Task2.Solution.dll
+C:\Users\MIB\Desktop\23.11.2017\Task2.Solution\bin\Debug\Task2.Solution.pdb
+C:\Users\MIB\Desktop\23.11.2017\Task2.Solution\obj\Debug\Task2.Solution.csprojResolveAssemblyReference.cache
+C:\Users\MIB\Desktop\23.11.2017\Task2.Solution\obj\Debug\Task2.Solution.csproj.CoreCompileInputs.cache
+C:\Users\MIB\Desktop\23.11.2017\Task2.Solution\obj\Debug\Task2.Solution.dll
+C:\Users\MIB\Desktop\23.11.2017\Task2.Solution\obj\Debug\Task2.Solution.pdb
+E:\EPAM\Final Test\NET.W.2017.Shakhrai.Test\Task2.Solution\bin\Debug\Task2.Solution.dll
+E:\EPAM\Final Test\NET.W.2017.Shakhrai.Test\Task2.Solution\bin\Debug\Task2.Solution.pdb
+E:\EPAM\Final Test\NET.W.2017.Shakhrai.Test\Task2.Solution\obj\Debug\Task2.Solution.csprojResolveAssemblyReference.cache
+E:\EPAM\Final Test\NET.W.2017.Shakhrai.Test\Task2.Solution\obj\Debug\Task2.Solution.csproj.CoreCompileInputs.cache
+E:\EPAM\Final Test\NET.W.2017.Shakhrai.Test\Task2.Solution\obj\Debug\Task2.Solution.dll
+E:\EPAM\Final Test\NET.W.2017.Shakhrai.Test\Task2.Solution\obj\Debug\Task2.Solution.pdb

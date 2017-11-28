@@ -1,0 +1,22 @@
+C:\Users\MIB\Desktop\23.11.2017\Task2.Tests\obj\Debug\Task2.Console.csprojResolveAssemblyReference.cache
+C:\Users\MIB\Desktop\23.11.2017\Task2.Tests\obj\Debug\Task2.Console.csproj.CoreCompileInputs.cache
+C:\Users\MIB\Desktop\23.11.2017\Task2.Tests\obj\Debug\Task2.Tests.pdb
+E:\EPAM\Final Test\NET.W.2017.Shakhrai.Test\Task2.Tests\obj\Debug\Task2.Console.csprojResolveAssemblyReference.cache
+E:\EPAM\Final Test\NET.W.2017.Shakhrai.Test\Task2.Tests\obj\Debug\Task2.Console.csproj.CoreCompileInputs.cache
+E:\EPAM\Final Test\NET.W.2017.Shakhrai.Test\Task2.Tests\obj\Debug\Task2.Tests.pdb
+E:\EPAM\Final Test\NET.W.2017.Shakhrai.Test\Task2.Tests\bin\Debug\Task2.Tests.exe
+E:\EPAM\Final Test\NET.W.2017.Shakhrai.Test\Task2.Tests\bin\Debug\Task2.Tests.pdb
+E:\EPAM\Final Test\NET.W.2017.Shakhrai.Test\Task2.Tests\bin\Debug\Castle.Core.dll
+E:\EPAM\Final Test\NET.W.2017.Shakhrai.Test\Task2.Tests\bin\Debug\Moq.dll
+E:\EPAM\Final Test\NET.W.2017.Shakhrai.Test\Task2.Tests\bin\Debug\nunit.framework.dll
+E:\EPAM\Final Test\NET.W.2017.Shakhrai.Test\Task2.Tests\bin\Debug\Task 2.dll
+E:\EPAM\Final Test\NET.W.2017.Shakhrai.Test\Task2.Tests\bin\Debug\Task1.Solution.Tests.dll
+E:\EPAM\Final Test\NET.W.2017.Shakhrai.Test\Task2.Tests\bin\Debug\Task2.Solution.dll
+E:\EPAM\Final Test\NET.W.2017.Shakhrai.Test\Task2.Tests\bin\Debug\Task1.Solution.Tests.pdb
+E:\EPAM\Final Test\NET.W.2017.Shakhrai.Test\Task2.Tests\bin\Debug\Task2.Solution.pdb
+E:\EPAM\Final Test\NET.W.2017.Shakhrai.Test\Task2.Tests\bin\Debug\Task 2.pdb
+E:\EPAM\Final Test\NET.W.2017.Shakhrai.Test\Task2.Tests\bin\Debug\Castle.Core.xml
+E:\EPAM\Final Test\NET.W.2017.Shakhrai.Test\Task2.Tests\bin\Debug\Moq.pdb
+E:\EPAM\Final Test\NET.W.2017.Shakhrai.Test\Task2.Tests\bin\Debug\Moq.xml
+E:\EPAM\Final Test\NET.W.2017.Shakhrai.Test\Task2.Tests\bin\Debug\nunit.framework.xml
+E:\EPAM\Final Test\NET.W.2017.Shakhrai.Test\Task2.Tests\obj\Debug\Task2.Tests.exe
