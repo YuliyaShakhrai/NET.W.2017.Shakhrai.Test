@@ -1,0 +1,11 @@
+C:\Users\MIB\Desktop\23.11.2017\Task3.Solution\bin\Debug\Task3.Solution.dll
+C:\Users\MIB\Desktop\23.11.2017\Task3.Solution\bin\Debug\Task3.Solution.pdb
+C:\Users\MIB\Desktop\23.11.2017\Task3.Solution\obj\Debug\Task3.Solution.csproj.CoreCompileInputs.cache
+C:\Users\MIB\Desktop\23.11.2017\Task3.Solution\obj\Debug\Task3.Solution.dll
+C:\Users\MIB\Desktop\23.11.2017\Task3.Solution\obj\Debug\Task3.Solution.pdb
+E:\EPAM\Final Test\NET.W.2017.Shakhrai.Test\Task3.Solution\bin\Debug\Task3.Solution.dll
+E:\EPAM\Final Test\NET.W.2017.Shakhrai.Test\Task3.Solution\bin\Debug\Task3.Solution.pdb
+E:\EPAM\Final Test\NET.W.2017.Shakhrai.Test\Task3.Solution\obj\Debug\Task3.Solution.csproj.CoreCompileInputs.cache
+E:\EPAM\Final Test\NET.W.2017.Shakhrai.Test\Task3.Solution\obj\Debug\Task3.Solution.dll
+E:\EPAM\Final Test\NET.W.2017.Shakhrai.Test\Task3.Solution\obj\Debug\Task3.Solution.pdb
+E:\EPAM\Final Test\NET.W.2017.Shakhrai.Test\Task3.Solution\obj\Debug\Task3.Solution.csprojResolveAssemblyReference.cache

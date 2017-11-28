@@ -1,0 +1,15 @@
+C:\Users\MIB\Desktop\20.11.2017\Task3\bin\Debug\Task3.dll
+C:\Users\MIB\Desktop\20.11.2017\Task3\bin\Debug\Task3.pdb
+C:\Users\MIB\Desktop\20.11.2017\Task3\obj\Debug\Task3.csproj.CoreCompileInputs.cache
+C:\Users\MIB\Desktop\20.11.2017\Task3\obj\Debug\Task3.dll
+C:\Users\MIB\Desktop\20.11.2017\Task3\obj\Debug\Task3.pdb
+C:\Users\MIB\Desktop\23.11.2017\Task3\bin\Debug\Task3.dll
+C:\Users\MIB\Desktop\23.11.2017\Task3\bin\Debug\Task3.pdb
+C:\Users\MIB\Desktop\23.11.2017\Task3\obj\Debug\Task3.csproj.CoreCompileInputs.cache
+C:\Users\MIB\Desktop\23.11.2017\Task3\obj\Debug\Task3.dll
+C:\Users\MIB\Desktop\23.11.2017\Task3\obj\Debug\Task3.pdb
+E:\EPAM\Final Test\NET.W.2017.Shakhrai.Test\Task3\bin\Debug\Task3.dll
+E:\EPAM\Final Test\NET.W.2017.Shakhrai.Test\Task3\bin\Debug\Task3.pdb
+E:\EPAM\Final Test\NET.W.2017.Shakhrai.Test\Task3\obj\Debug\Task3.csproj.CoreCompileInputs.cache
+E:\EPAM\Final Test\NET.W.2017.Shakhrai.Test\Task3\obj\Debug\Task3.dll
+E:\EPAM\Final Test\NET.W.2017.Shakhrai.Test\Task3\obj\Debug\Task3.pdb
