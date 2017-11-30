@@ -15,3 +15,9 @@ E:\EPAM\Final Test\NET.W.2017.Shakhrai.Test\Task4\obj\Debug\Task4.csprojResolveA
 E:\EPAM\Final Test\NET.W.2017.Shakhrai.Test\Task4\obj\Debug\Task4.csproj.CoreCompileInputs.cache
 E:\EPAM\Final Test\NET.W.2017.Shakhrai.Test\Task4\obj\Debug\Task4.dll
 E:\EPAM\Final Test\NET.W.2017.Shakhrai.Test\Task4\obj\Debug\Task4.pdb
+D:\Projects\EPAM\Final Test\NET.W.2017.Shakhrai.Test\Task4\bin\Debug\Task4.dll
+D:\Projects\EPAM\Final Test\NET.W.2017.Shakhrai.Test\Task4\bin\Debug\Task4.pdb
+D:\Projects\EPAM\Final Test\NET.W.2017.Shakhrai.Test\Task4\obj\Debug\Task4.csprojResolveAssemblyReference.cache
+D:\Projects\EPAM\Final Test\NET.W.2017.Shakhrai.Test\Task4\obj\Debug\Task4.csproj.CoreCompileInputs.cache
+D:\Projects\EPAM\Final Test\NET.W.2017.Shakhrai.Test\Task4\obj\Debug\Task4.dll
+D:\Projects\EPAM\Final Test\NET.W.2017.Shakhrai.Test\Task4\obj\Debug\Task4.pdb

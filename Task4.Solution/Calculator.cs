@@ -10,8 +10,14 @@ namespace Task4
         {
             if (values == null)
             {
-                throw new ArgumentNullException();
+                throw new ArgumentNullException($"{nameof(values)} is null.");
             }
+
+            if (averagingMethod == null)
+            {
+                throw new ArgumentNullException($"{nameof(averagingMethod)} is null.");
+            }
+
             return averagingMethod.CalculateAverage(values);
         }
     }

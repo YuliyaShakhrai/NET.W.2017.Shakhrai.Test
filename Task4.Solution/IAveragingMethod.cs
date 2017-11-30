@@ -8,6 +8,6 @@ namespace Task4
 {
     public interface IAveragingMethod
     {
-        double CalculateAverage(List<double> values);
+        double CalculateAverage(IList<double> values);
     }
 }

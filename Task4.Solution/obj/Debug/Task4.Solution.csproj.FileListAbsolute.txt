@@ -16,3 +16,9 @@ E:\EPAM\Final Test\NET.W.2017.Shakhrai.Test\Task4.Solution\obj\Debug\Task4.Solut
 E:\EPAM\Final Test\NET.W.2017.Shakhrai.Test\Task4.Solution\obj\Debug\Task4.Solution.csproj.CoreCompileInputs.cache
 E:\EPAM\Final Test\NET.W.2017.Shakhrai.Test\Task4.Solution\obj\Debug\Task4.Solution.dll
 E:\EPAM\Final Test\NET.W.2017.Shakhrai.Test\Task4.Solution\obj\Debug\Task4.Solution.pdb
+D:\Projects\EPAM\Final Test\NET.W.2017.Shakhrai.Test\Task4.Solution\bin\Debug\Task4.Solution.dll
+D:\Projects\EPAM\Final Test\NET.W.2017.Shakhrai.Test\Task4.Solution\bin\Debug\Task4.Solution.pdb
+D:\Projects\EPAM\Final Test\NET.W.2017.Shakhrai.Test\Task4.Solution\obj\Debug\Task4.Solution.csprojResolveAssemblyReference.cache
+D:\Projects\EPAM\Final Test\NET.W.2017.Shakhrai.Test\Task4.Solution\obj\Debug\Task4.Solution.csproj.CoreCompileInputs.cache
+D:\Projects\EPAM\Final Test\NET.W.2017.Shakhrai.Test\Task4.Solution\obj\Debug\Task4.Solution.dll
+D:\Projects\EPAM\Final Test\NET.W.2017.Shakhrai.Test\Task4.Solution\obj\Debug\Task4.Solution.pdb

@@ -8,7 +8,7 @@ namespace Task4
 {
     public class MedianAveragingMethod : IAveragingMethod
     {
-        public double CalculateAverage(List<double> values)
+        public double CalculateAverage(IList<double> values)
         {
             var sortedValues = values.OrderBy(x => x).ToList();
 

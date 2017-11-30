@@ -8,7 +8,7 @@ namespace Task4
 {
     public class MeanAveragingMethod : IAveragingMethod
     {
-        public double CalculateAverage(List<double> values)
+        public double CalculateAverage(IList<double> values)
         {
             return values.Sum() / values.Count;
         }
