@@ -6,8 +6,8 @@ using System.Threading.Tasks;
 
 namespace Task3.Solution
 {
-    public sealed class MarketUpdateEventArgs : EventArgs
+    public class MarketUpdateEventArgs : EventArgs
     {
-        public string Msg { get; set; }
+        public virtual string Msg { get; set; }
     }
 }

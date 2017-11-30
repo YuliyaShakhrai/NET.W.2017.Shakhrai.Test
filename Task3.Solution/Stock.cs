@@ -3,9 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Task3.Solution;
 
-namespace Task3
+namespace Task3.Solution
 {
     public class Stock
     {
@@ -36,7 +35,7 @@ namespace Task3
             OnMarketUpdate(new MarketUpdateEventArgs() { Msg = msg });
         }
 
-        public event EventHandler<MarketUpdateEventArgs> MarketUpdate = delegate { };
+        public virtual event EventHandler<MarketUpdateEventArgs> MarketUpdate = delegate { };
 
         public void OnMarketUpdate(MarketUpdateEventArgs eventArgs)
         {
